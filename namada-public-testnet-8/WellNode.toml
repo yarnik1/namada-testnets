@@ -1,0 +1,9 @@
+[validator.WellNode]
+consensus_public_key = "003bb0dadc773d9488ea8480b75a6f4cb35db85ecfa9243cd8c578ff22a1142466"
+account_public_key = "00d5845e39c298fc2b0135fadf7f46b8c942db747b8c85c4277856d61148a279d2"
+protocol_public_key = "000e1e269908b135179fb54799cede25bf1fb9137cdde998c31a574b8a321a0f7b"
+dkg_public_key = "60000000dc25e5576f34215e81df831fc143171ea7d682d82999c27a3b89af33b01226f88f64ff1a398cb759919603f7b0f31112ebc56e8a86956ae4f3936ea70283c9a9f72065972a6df4dadefd2a95bf64fa86858587cf3edb14d672090d872260db90"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.62.223:26656"
+tendermint_node_key = "0027b8a2d4d4d6443ddfdce9258becc0160b8e967ac676307cf28dafe7dd484c08"
